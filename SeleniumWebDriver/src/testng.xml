@@ -1,0 +1,13 @@
+<suite name="TestNG">
+
+<test name="Different testNG features">
+
+<classes>
+<class name="com.test.exceptionTimeouttest"/>
+<class name="com.test.Gogletitletest"/>
+<class name="com.test.secondtest"/>
+</classes>
+
+</test>
+
+</suite>
